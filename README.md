@@ -1,2 +1,2 @@
 # PHP-Obfuscator
-Script for Obfuscating/Enceypting PHP Code
+Script for Obfuscating/Encrypting PHP Code
